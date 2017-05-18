@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minisnmp", "minisnmp.csproj", "{EC2D7E72-9F4F-420F-B7D9-5D5109784A9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2D7E72-9F4F-420F-B7D9-5D5109784A9D}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2D7E72-9F4F-420F-B7D9-5D5109784A9D}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{EC2D7E72-9F4F-420F-B7D9-5D5109784A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2D7E72-9F4F-420F-B7D9-5D5109784A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2D7E72-9F4F-420F-B7D9-5D5109784A9D}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2D7E72-9F4F-420F-B7D9-5D5109784A9D}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{EC2D7E72-9F4F-420F-B7D9-5D5109784A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2D7E72-9F4F-420F-B7D9-5D5109784A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2D7E72-9F4F-420F-B7D9-5D5109784A9D}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2D7E72-9F4F-420F-B7D9-5D5109784A9D}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
